@@ -1,3 +1,10 @@
+<!--
+ * @Author: Kevin.Ching
+ * @Date: 2024-10-22 15:28:58
+ * @LastEditors: Do not edit
+ * @LastEditTime: 2024-10-22 15:49:06
+ * @email: lampard_cheng@hotmail.com
+-->
 
 # 云编译OpenWrt
 
@@ -64,3 +71,4 @@
  由于时间仓促，修改可能不到位，后续慢慢补充！
 
   
+2024年
